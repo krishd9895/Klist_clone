@@ -7,7 +7,7 @@
 
 # Alist Heroku Postgres
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/krishd9895/Klist_clone)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/krishd9895/Klist_clone.git)
 Use heroku's add-on postgres database, your settings will be persistent, don't worry about hibernate losing configuration.
 
 If you can't deploy, and it says "We couldn't deploy your app because the source code violates the Salesforce Acceptable Use and External-Facing Services Policy.", you need to fork this repo and click the `Deploy` button in your own fork.
