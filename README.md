@@ -1,5 +1,9 @@
 # alist-heroku-postgresql
 
+## Deploy alist to heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 
 # Alist Heroku Postgres
 
